@@ -4,7 +4,7 @@ A lightweight console-based property data management system built with C, design
 
 ## About The Project
 
-This project was developed as part of the **Assurance of Learning for Algorithm and Programming** course (Case Study 2) during my 1st semester at BINUS University.
+This project was developed as part of the **Assurance of Learning for Algorithm and Programming** course at BINUS University.
 
 ### The Problem
 
@@ -101,7 +101,6 @@ PropertyHub/
 ## Author
 
 **Okky Sudibyo Rades** - 2702300575  
-BINUS University - 1st Semester (LB95)
 
 ---
 
